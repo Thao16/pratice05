@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_password</name>
+   <tag></tag>
+   <elementGuidId>b5cc899a-5604-4c07-80a3-93abd0463059</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='new-user-password']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.new-user-password > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3612c008-f6b6-4698-a2c9-dc527116422b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>043d007a</value>
+      <webElementGuid>90ca3407-17d6-4aa1-93a9-59199a7022e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fontLoaded ant-scrolling-effect&quot;]/div[7]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal styles__StyledModal-sc-12kkf74-0 bmwBQW&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;styles__StyledContent-sc-12kkf74-1 fYpkWg&quot;]/div[@class=&quot;styles__StyledNewUser-sc-1iooedm-13 bmjAKH&quot;]/div[@class=&quot;new-user-infor&quot;]/div[@class=&quot;new-user-password&quot;]/span[1]</value>
+      <webElementGuid>00753d82-8bdc-4211-8c35-166090a0661f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='thaoton1'])[2]/following::span[1]</value>
+      <webElementGuid>5bd60b95-c761-4816-9381-50608333c898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ok'])[1]/preceding::span[3]</value>
+      <webElementGuid>067ce811-3c3d-4462-80ba-ec3025de022a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='043d007a']/parent::*</value>
+      <webElementGuid>1d5d999c-8864-41cd-8e80-faf82bcfd78d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]/span</value>
+      <webElementGuid>fbab49b8-dfc0-421b-99f9-10417a4b2761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '043d007a' or . = '043d007a')]</value>
+      <webElementGuid>0e0ca373-6537-489d-b142-6241d25ffd25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
